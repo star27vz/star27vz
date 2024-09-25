@@ -1,8 +1,8 @@
 # Hi 👋, Soy Estrella Velásquez Zuñiga
 
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?style=social) 
-![Stars](https://img.shields.io/github/stars/TU_USUARIO?style=social) 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO)
+![Followers](https://img.shields.io/github/followers/star27vz) 
+![Stars](https://img.shields.io/github/stars/star27vz) 
+![Visitors](https://visitor-badge.laobi.icu/star27vz)
 
 ## Acerca de mí :
 - 🚀 Egresada de Ingeniería de Sistemas e Informática en la Universidad Nacional de Moquegua - Perú.
