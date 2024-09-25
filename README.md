@@ -2,10 +2,9 @@
 
 ![Followers](https://img.shields.io/github/followers/star27vz) 
 ![Stars](https://img.shields.io/github/stars/star27vz) 
-![Visitors](https://visitor-badge.laobi.icu/star27vz)
 
 ## Acerca de mí :
-- 🚀 Egresada de Ingeniería de Sistemas e Informática en la Universidad Nacional de Moquegua - Perú.
+- 🎓 Egresada de Ingeniería de Sistemas e Informática en la Universidad Nacional de Moquegua - Perú. Becario del programa de Verano de la Escuela de Matemática Aplicada (Machine learning) de la Fundación Getulio Vargas.
 - 📊 Explorador/a de datos con interés en machine learning y análisis de datos.
 
 ### Conéctate conmigo 🌐:
@@ -19,5 +18,10 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
+### GitHub Stats 📊:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=star27vz&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=star27vz&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star27vz&layout=compact&theme=radical)
