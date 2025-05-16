@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/star27vz) 
 
 ## Acerca de mí:
-- 🎓 Ingeniería de Sistemas e Informática en la Universidad Nacional de Moquegua - Perú. Becaria del programa de Verano de la Escuela de Matemática Aplicada (Machine learning) de la Fundación Getulio Vargas (Rio de Janeiro - Brasil).
+- 🎓 Ingeniera de Sistemas e Informática - Universidad Nacional de Moquegua - Perú. Becaria del programa de Verano de la Escuela de Matemática Aplicada (Machine learning) de la Fundación Getulio Vargas (Rio de Janeiro - Brasil).
 - 📊 Investigador en machine learning y análisis de datos.
 
 ### Conéctate conmigo 🌐:
