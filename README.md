@@ -1,23 +1,126 @@
-# Hi 👋, Soy Estrella Velásquez Zuñiga
-![Followers](https://img.shields.io/github/followers/star27vz) 
-![Stars](https://img.shields.io/github/stars/star27vz) 
+# ¡Hola! 👋 Soy Estrella Velásquez Zúñiga
 
-## Acerca de mí:
-- 🎓 Ingeniera de Sistemas e Informática - Universidad Nacional de Moquegua - Perú. Becaria del programa de Verano de la Escuela de Matemática Aplicada (Machine learning) de la Fundación Getulio Vargas (Rio de Janeiro - Brasil).
-- 📊 Investigador en machine learning y análisis de datos.
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Ingeniera+de+Sistemas;Machine+Learning+Researcher;Data+Science+Enthusiast;Developer)
 
-### Conéctate conmigo 🌐:
+[![Followers](https://img.shields.io/github/followers/star27vz?style=for-the-badge&color=E91E63)](https://github.com/star27vz)
+[![Stars](https://img.shields.io/github/stars/star27vz?style=for-the-badge&color=E91E63)](https://github.com/star27vz)
+[![Profile Views](https://komarev.com/ghpvc/?username=star27vz&style=for-the-badge&color=E91E63)](https://github.com/star27vz)
+
+</div>
+
+## 🚀 Acerca de mí
+
+🎓 **Ingeniera de Sistemas e Informática** - Universidad Nacional de Moquegua, Perú  
+🏆 **Becaria** del programa de Verano de la Escuela de Matemática Aplicada (Machine Learning) - Fundación Getulio Vargas, Rio de Janeiro, Brasil  
+📊 **Investigadora** especializada en Machine Learning y Análisis de Datos  
+💡 **Apasionada** por la tecnología, la innovación y el impacto social a través de la programación
+
+> *"Transformando datos en insights, código en soluciones"*
+
+## 🌟 Áreas de Especialización
+
+**🤖 Machine Learning:** Supervised Learning, Deep Learning, Data Mining  
+**📊 Data Science:** Statistical Analysis, Data Visualization, Predictive Modeling  
+**💻 Web Development:** Frontend, Backend, Full Stack  
+**🔬 Research:** Academic Research, Applied Mathematics, Algorithm Design
+
+## 🛠️ Stack Tecnológico
+
+### 💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Desarrollo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🤖 Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Herramientas & Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=star27vz&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=star27vz&theme=material-palenight&hide_border=true&background=0D1117&stroke=E91E63&currStreakLabel=E91E63&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star27vz&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF)
+
+</div>
+
+## 🎯 Proyectos Destacados
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=star27vz&repo=machine-learning-projects&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF)](https://github.com/star27vz/machine-learning-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=star27vz&repo=data-analysis-portfolio&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF)](https://github.com/star27vz/data-analysis-portfolio)
+
+</div>
+
+## 📈 Actividad de Contribuciones
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=star27vz&theme=material-palenight&hide_border=true&bg_color=0D1117&color=E91E63&line=E91E63&point=FFFFFF)
+
+</div>
+
+## 🌐 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/estrella-velásquez](https://www.linkedin.com/in/estrella-vel%C3%A1squez/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/star_velasquez27/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estrella-velásquez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:star27vz@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://estrellavelasquez.vercel.app/)
 
-### En qué soy bueno 💻:
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+</div>
 
-### GitHub Stats 📊:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=star27vz&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=star27vz&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star27vz&layout=compact&theme=radical)
+## 💭 Frase Inspiradora
+
+<div align="center">
+  
+*"La tecnología es mejor cuando acerca a las personas"* - Matt Mullenweg
+
+---
+
+⭐ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repositorios!
+
+</div>
+
+## 📫 ¿Hablamos?
+
+Siempre estoy abierta a colaborar en proyectos interesantes, discutir sobre tecnología o simplemente charlar sobre Machine Learning y Data Science. ¡No dudes en contactarme!
+
+<div align="center">
+
+![Snake animation](https://github.com/star27vz/star27vz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+  
+**¡Gracias por visitar mi perfil!** 🙌
+
+![Visitor Count](https://profile-counter.glitch.me/star27vz/count.svg)
+
+</div>
