@@ -21,46 +21,46 @@
 
 ## 🌟 Áreas de Especialización
 
-**🤖 Artificial Intelligence & Machine Learning:** Aprendizaje Profundo, Redes Neuronales, , Sistemas Inteligentes, Minería de Datos
-**📊 Natural Language Processing:** Clasificación de Texto, Modelos de Lenguaje
-**💻 Data Science:** Análisis Estadístico, Visualización de Datos, Modelado Predictivo
-**🔬 Academic Research:** Redacción de Papers, Metodología de Investigación, Análisis Estadístico
+- **🤖 Artificial Intelligence & Machine Learning:** Aprendizaje Profundo, Redes Neuronales, Sistemas Inteligentes, Minería de Datos
+- **📊 Natural Language Processing:** Clasificación de Texto, Modelos de Lenguaje
+- **💻 Data Science:** Análisis Estadístico, Visualización de Datos, Modelado Predictivo
+- **🔬 Academic Research:** Redacción de Papers, Metodología de Investigación, Análisis Estadístico
 
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4A148C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6A1B9A?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7B1FA2?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8E24AA?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-9C27B0?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### 🌐 Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-AD1457?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-F8BBD9?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D81B60?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-F8BBD9?style=for-the-badge&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-F06292?style=for-the-badge&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-F48FB1?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F8BBD9?style=for-the-badge&logo=tailwind-css&logoColor=black)
 
 ### 🤖 Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-311B92?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-512DA8?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-673AB7?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-9575CD?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-B39DDB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Herramientas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-880E4F?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-AA00FF?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-D500F9?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-E040FB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📊 Herramientas de Visualización
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-3F51B5?style=for-the-badge&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-7986CB?style=for-the-badge&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-C5CAE9?style=for-the-badge&logo=google&logoColor=black)
 
 ## 📊 Estadísticas de GitHub
 
